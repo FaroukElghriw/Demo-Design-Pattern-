@@ -9,7 +9,9 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Strategy Dp", "Strategy Dp\
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Decorator DP", "Decorator DP\Decorator DP.csproj", "{1FDE1A63-1B88-4191-BBD3-7999D8EEA986}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EventSLn", "EventSLn\EventSLn.csproj", "{C19EAB5F-75E6-43F0-B54F-6AF8CA2648CF}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "EventSLn", "EventSLn\EventSLn.csproj", "{C19EAB5F-75E6-43F0-B54F-6AF8CA2648CF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Observer_Dp", "Observer_Dp\Observer_Dp.csproj", "{0E60B49B-F34C-4FDC-8958-CB0EED95E8B4}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -33,6 +35,10 @@ Global
 		{C19EAB5F-75E6-43F0-B54F-6AF8CA2648CF}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{C19EAB5F-75E6-43F0-B54F-6AF8CA2648CF}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{C19EAB5F-75E6-43F0-B54F-6AF8CA2648CF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0E60B49B-F34C-4FDC-8958-CB0EED95E8B4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0E60B49B-F34C-4FDC-8958-CB0EED95E8B4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0E60B49B-F34C-4FDC-8958-CB0EED95E8B4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0E60B49B-F34C-4FDC-8958-CB0EED95E8B4}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
